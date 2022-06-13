@@ -6,6 +6,7 @@ title:  "Google CTF"
 # Google CTF
 
 **Information**
+Test information
 **Annoucments**
 This is a test post
 
