@@ -34,6 +34,7 @@ I'm currently working on the following features:
 * Adding authors and their profiles
 * The About page
 * Logo and favicon
+* Image CDN
 
 ## Usage
 
