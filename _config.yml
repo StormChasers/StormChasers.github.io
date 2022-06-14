@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://images-ext-1.discordapp.net/external/Y6tO168Kexxho_XYKHkkVMAYPr8JGpAg8dx3HZWYJpg/https/technofaq.org/wp-content/uploads/2018/07/cyber-security-1024x576.jpg
+avatar: https://ibb.co/VmyGzqs
 
 # boolean type, the global switch for ToC in posts.
 toc: true
