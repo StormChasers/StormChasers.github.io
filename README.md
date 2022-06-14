@@ -31,7 +31,7 @@ Add FILE_NAME.md file to _posts/ directory.
 
 More information: [Documentation](https://chirpy.cotes.page/posts/write-a-new-post/)
 
-## Example post front matter
+## Example post structure
 
 ```yml
 ---
