@@ -11,18 +11,35 @@ To test the website locally, run the following command:
 ```
 $ bundle exec jekyll s
 ```
-## To add a post
+
+## Authors
+
+To add a new author, update _data/authors.yml file.
+
+Example author information from _data/authors.yml file:
+
+```yml
+elotoja:
+  name: EloToJa
+  twitter: elotoja_
+  url: https://github.com/EloToJaa
+```
+
+## To add a new post
 
 Add FILE_NAME.md file to _posts/ directory.
 
-## Example post structure
+More information: [Documentation](https://chirpy.cotes.page/posts/write-a-new-post/)
 
-```
+## Example post front matter
+
+```yml
 ---
 title: Title
 date: 2022-06-14 16:00:00 +0200
 categories: [cat1, cat2, cat3]
 tags: [tag1, tag2, tag3]
+author: elotoja
 ---
 
 Content
@@ -31,7 +48,6 @@ Content
 ## Working on
 
 I'm currently working on the following features:
-* Adding authors and their profiles
 * The About page
 * Logo and favicon
 * Image CDN
