@@ -49,7 +49,6 @@ Content
 
 I'm currently working on the following features:
 * The About page
-* Logo and favicon
 * Image CDN
 
 ## Usage
