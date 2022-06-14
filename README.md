@@ -28,6 +28,13 @@ tags: [tag1, tag2, tag3]
 Content
 ```
 
+## Working on
+
+I'm currently working on the following features:
+* Adding authors and their profiles
+* The About page
+* Logo and favicon
+
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
